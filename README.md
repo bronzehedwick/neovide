@@ -161,11 +161,9 @@ $ scoop install neovide
 3. Install CMake. Using homebrew: `brew install cmake`
 4. `git clone https://github.com/neovide/neovide`
 5. `cd neovide`
-6. `cargo build --release`
-7. Copy `./target/release/neovide` to a known location and enjoy.
-8. `cargo install cargo-bundle`
-9. `cargo bundle --release`
-10. Copy `./target/release/bundle/osx/neovide.app` to `~/Applications` and enjoy.
+6. `cargo install cargo-bundle`
+7. `cargo bundle --release`
+8. Copy `./target/release/bundle/osx/neovide.app` to `~/Applications` and enjoy.
 
 ### Linux
 
